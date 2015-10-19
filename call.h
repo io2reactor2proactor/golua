@@ -1,5 +1,5 @@
-#ifndef TEST_H
-#define TEST_H
+#ifndef CALL_H
+#define CALL_H
 
 #include "lua.hpp"
 

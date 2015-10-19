@@ -2,7 +2,6 @@ package main
 
 //#include <stdio.h>
 //#include <stdlib.h>
-//#include "lua.h"
 //#include "call.h"
 //#cgo CFLAGS: -I include/
 //#cgo LDFLAGS: -L lib/ -lcall -llua -lm -ldl

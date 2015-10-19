@@ -1,0 +1,4 @@
+ans:call.c test.c
+	gcc -w -g -o $@ $^ -I include/ -L lib/ -llua -lm -ldl
+clean:
+	rm -fr ans
